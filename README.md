@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @shivji-sj
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ->
-gmail : sjshivji@gmail.com
+Hi there 👋
 
-<!---
-shivji-sj/shivji-sj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🔭 I’m currently working on Machine Learning Projects.
+🌱 I’m currently learning Deep Learning.
+👯 I’m looking to collaborate on -------.
+💬 Ask me about Python/Tech related questions.
+📫 How to reach me: Gmail - sjshivji@gmail.com
