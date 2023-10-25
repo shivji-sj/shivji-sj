@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHIVJI</h1>
 <h3 align="center">A passionate Data Science enthusiastic</h3>
 
-<img align="right" alt="coding" width=400 src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/program%205.gif">
+<img align="right" alt="coding" width=400 src="[https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/program%205.gif](https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/one.gif)">
 - 🔭 I’m currently working on Bharat Internship [MNIST handwritten digits recognition using deep learning]
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
