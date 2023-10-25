@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Science enthusiastic</h3>
 
 <img align="right" alt="coding" width=400 src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/program%205.gif">
-- 🔭 I’m currently working on Bharat Internship [MNIST handwritten digits recognition using deep learning](https://github.com/shivji-sj/Bharat-Internship/tree/main/Handwritten%20Digits%20Recognition%20using%20Deep%20Learning)
+- 🔭 I’m currently working on Bharat Internship [MNIST handwritten digits recognition using deep learning]
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
 
