@@ -4,13 +4,11 @@
 <h3 align="center">A passionate Data Science enthusiastic</h3>
 
 <img align="right" alt="coding" width=400 src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
-- 🔭 I’m currently working at VBL.
+- 🔭 I’m currently working at BLS E-Services as MIS-Executive.
 
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
+- 🌱 I’m currently working on **Cartooning the Image - OpenCV project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivji-sj](https://github.com/shivji-sj)
-
-- 📝 I write articles on [https://medium.com/@sjshivji](https://medium.com/@sjshivji)
 
 - 💬 Ask me about **Python, Data Science, Data Analytics, SQL,**
 
