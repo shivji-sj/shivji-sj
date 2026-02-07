@@ -1,5 +1,3 @@
-![myslogan](https://github.com/shivji-sj/shivji-sj/blob/main/ds%20linked%20profile%20(3).png)
-
 <h1 align="center">Hi 👋, I'm SHIVJI</h1>
 <h3 align="center">A passionate Data Science enthusiastic</h3>
 
